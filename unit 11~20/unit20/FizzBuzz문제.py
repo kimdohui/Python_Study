@@ -31,4 +31,3 @@ for i in range(1,101) :
 
 # *를 사용하여 만약 뒤에 식이 True라면 fizz나 buzz를 출력하게 만들었다
 # fizz나 buzz 과 i 중 하나만 출력함(앞이 참이면 뒤 i 는 무시)
-    
